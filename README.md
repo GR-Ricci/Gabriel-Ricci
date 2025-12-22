@@ -12,11 +12,14 @@ I enjoy **technology, AI, machine learning, Python, and game development**.
 
 ## ⚡ Skills
 - Python 🐍
+- SQL & Relational Databases 🗄️
+- Data Analysis 📊
+- Backend Development ⚙️
 - Pygame 🎮
-- Machine Learning 🤖
-- Artificial Intelligence 🧠
+
 
 ## 🌱 Currently Learning
-- Advanced Python
-- Practical Machine Learning
-- AI and emerging technologies
+- Python (Intermediate Concepts)
+- Django (Backend Development)
+- SQL & Relational Databases
+- Data Engineering Fundamentals
